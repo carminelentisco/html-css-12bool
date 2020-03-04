@@ -1,0 +1,19 @@
+/* GENERAL */
+
+* {
+  margin:  0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  color: white;
+}
+
+.red {
+  background-color: rgb(254, 0, 0);
+}
+
+.bk {
+  background-color: rgb(0, 0, 0);
+}
